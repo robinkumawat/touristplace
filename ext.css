@@ -1,0 +1,95 @@
+ *
+ 
+ .navbar-expand-lg.navbar-light.bg-light {
+    background-color: rgb(71, 70, 70) !important;
+}
+.mainheader a.navbar-brand img{
+    color: white !important;
+    height: 50px;
+    width: 70px;
+}
+.mainheader .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.mainheader .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 2.5rem;
+}
+.header .navbar-expand-lg.navbar-light.bg-light {
+    background-color: rgb(31, 187, 193) !important;
+}
+.header .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #000000;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 2.5rem;
+}
+.carousel-item img
+{
+height: 500px;
+width: 100%;
+}
+.bgcolor{
+    /* background-color: #6f6565; */
+    width: 100%;
+    height: auto;
+}
+ /* .col-md-5
+{
+   
+    /* margin-top: 60px; }*/
+
+.col-md-4 img
+
+{
+    height: 380px;
+    width: 100%;
+    border-radius: 40px;
+}
+.col-md-4 {
+    width: 630px;
+    height: 380px;
+    margin-bottom: 50px;
+}
+.row 
+{
+    /* padding-top:  60px;  */
+    justify-content: space-between;
+}
+
+ .col-md-12 h1
+{
+   font-weight: bolder;
+}
+ .col-md-12 p span
+{
+    font-weight: bolder;
+} 
+.col-md-12 p 
+{
+    font-size:18px ;
+}
+.carousel-caption h1
+{
+    color: rgb(0 0 0);
+    margin-bottom: 29px;
+    font-weight: 700;
+    font-size: 4rem;
+}
+.card {
+    height: 443px;
+}
+img.card-img-top {
+    height: 158px;
+}
+#blogs h1
+
+{
+    font-weight: bold;
+
+}
