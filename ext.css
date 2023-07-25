@@ -93,3 +93,51 @@ img.card-img-top {
     font-weight: bold;
 
 }
+.col-lg-6
+{
+    margin-top: 70px;
+}
+.row
+{
+    margin-top: 40px;
+}
+
+
+.foot .navbar-expand-lg.navbar-light.bg-light {
+    background-color: rgb(92, 99, 99) !important;}
+
+    .foot .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+        color: #fff9f9;
+        font-weight: bolder;
+        font-size: 18px;
+    }   
+
+   
+    .nav-item a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .footer
+    {
+        height: 75px;
+        width: 100%;
+        background-color: #000000;
+        color: #fff;
+        display: flex;
+        padding: 10px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .footer h4 a
+    {
+        text-decoration: none;
+        color: #ffffff;
+    }
+    .foot .nav-item {
+        padding: 50px;
+    }
+    .nav-item a:hover
+    {
+       color: rgb(0, 94, 255);
+    }
